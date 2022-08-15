@@ -75,6 +75,8 @@ body {
   left: 40px;
   top: 40px;
   z-index: 10;
+  background: transparent;
+  border: none;
   cursor: pointer;
 }
 
@@ -108,11 +110,6 @@ a {
 
 .menuNav li:first-child {
   margin-top: 7rem;
-}
-
-.navBar button {
-  background: transparent;
-  border: none;
 }
 
 .about__content {
