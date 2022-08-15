@@ -41,7 +41,7 @@ Finally, start your development server by running:
 
 ### npm start
 
-You should see the app in your browser address bar at htt://local/host:3000
+You should see the app in your browser address bar at https://local/host:3000
 
 
 ### Prerequisites
