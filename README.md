@@ -1,56 +1,62 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# todo list
 
-> Description the project.
+> A react todos application
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
+- React
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+ [on progress...]
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+**The code is available in the src folder.**
 
 To get a local copy up and running follow these simple example steps.
 
+### Clone the project
+You can download or clone this project by running this command from your terminal.
+
+### git clone https://github.com/aron-helu/react-todo-project.git
+
+This will crate a dirctory in the name of the project folder.
+
+Open it with your text editor.
+
+Next, switch inside the project directory and ru:
+
+### npm install
+
+This will install all the necessary dependencies in the local node_modules folder.
+
+Finally, start your development server by running:
+
+### npm start
+
+You should see the app in your browser address bar at htt://local/host:3000
+
+
 ### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+Any html and css code editor like Vscode or Vim.
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Aaron Abraham**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Aaron](https://github.com/aron-helu)
 
-👤 **Author2**
+- LinkedIn: [@Aaron](https://www.linkedin.com/in/aron-abraham-90a4321b0/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -58,15 +64,15 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
+
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+
 
 ## 📝 License
 
