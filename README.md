@@ -13,8 +13,8 @@
 
 ## Live Demo (if available)
 
- [on progress...]
-
+[Live Demo Link](https://aron-helu.github.io/react-todo-project/)
+ 
 
 ## Getting Started
 
